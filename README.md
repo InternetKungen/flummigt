@@ -1,3 +1,3 @@
 # flummigt
 Some animation testing
-https://internetkungen.github.io/flummigt/
+Link: https://internetkungen.github.io/flummigt/
